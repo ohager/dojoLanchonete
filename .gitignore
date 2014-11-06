@@ -1,0 +1,6 @@
+# User-specific files
+*.userprefs
+
+# Build Folders
+bin/
+obj/
