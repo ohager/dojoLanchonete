@@ -1,4 +1,0 @@
-C:\Users\lucas.cosme\Documents\Projects\dojoLanchonete\dojoLanchonete\bin\Debug\dojoLanchonete.exe
-C:\Users\lucas.cosme\Documents\Projects\dojoLanchonete\dojoLanchonete\bin\Debug\dojoLanchonete.pdb
-C:\Users\lucas.cosme\Documents\Projects\dojoLanchonete\dojoLanchonete\obj\x86\Debug\dojoLanchonete.exe
-C:\Users\lucas.cosme\Documents\Projects\dojoLanchonete\dojoLanchonete\obj\x86\Debug\dojoLanchonete.pdb
