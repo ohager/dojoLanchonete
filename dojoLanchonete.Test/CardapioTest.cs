@@ -42,6 +42,19 @@ namespace dojoLanchonete.Test
 
 			Assert.AreEqual(3.2, lancheNovo.preco(), 0.01);
 		}
+
+		[Test]
+		public void testPromocaoSejaLight()
+		{
+			Lanche lancheNovo = new Lanche();
+
+			lancheNovo.add(Ingrediente.Ovo);
+			lancheNovo.add(Ingrediente.Alface);
+			lancheNovo.add(Ingrediente.HamburguerCarne);
+
+			Assert.AreEqual(1.71, lancheNovo.preco(), 0.01);
+			
+		}
 	}
 }
 
